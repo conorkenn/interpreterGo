@@ -12,7 +12,7 @@ const (
 	EOF     = "EOF"
 
 	//identifiers + literals
-	IDENT = "INDET"
+	IDENT = "IDENTIFIER"
 	INT   = "INT"
 
 	//operator
@@ -32,8 +32,8 @@ const (
 
 	LPAREN = "("
 	RPAREN = ")"
-	LBRACE = "}"
-	RBRACE = "{"
+	LBRACE = "{"
+	RBRACE = "}"
 
 	//equality
 	EQ     = "=="
